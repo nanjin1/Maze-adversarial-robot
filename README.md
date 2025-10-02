@@ -17,7 +17,14 @@
 
 ![](https://cdn.nlark.com/yuque/0/2025/png/50405538/1759411902318-25dadf68-7b69-4370-96e8-60a241a43b92.png)
 
-1️⃣视频：
+1️⃣双头循迹：
+
+![](https://github.com/nanjin1/Maze-adversarial-robot/blob/main/GIF/change.gif)
+
+
+2️⃣找宝藏：
+
+![](https://github.com/nanjin1/Maze-adversarial-robot/blob/main/GIF/xun.gif)
 
 
 
